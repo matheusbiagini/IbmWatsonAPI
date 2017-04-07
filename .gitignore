@@ -1,0 +1,6 @@
+.idea
+.svn
+nbproject
+bower_components
+node_modules
+Config/Config.js
