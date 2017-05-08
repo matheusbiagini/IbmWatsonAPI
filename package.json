@@ -1,7 +1,7 @@
 {
   "name": "hypnowatson",
   "version": "1.0.0",
-  "description": "Api de integração da IBM Watson com Hypnobox CRM",
+  "description": "Api de integração com o IBM Watson",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,6 @@
   "keywords": [
     "IBM",
     "Watson",
-    "Hypnobox",
-    "CRM"
   ],
   "author": "Matheus",
   "license": "ISC",
